@@ -1,0 +1,14 @@
+{
+  "name": "MyService",
+  "version": "0.0.0",
+  "description": "MyService",
+  "main": "server.js",
+  "author": {
+    "name": "davidsalt",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-generator": "^4.13.1"
+  }
+}
